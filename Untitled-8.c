@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int minutes, hours, remaining_minutes;
+    int minutes, hours, remaining minutes;
 
     
     printf("Enter the number of minutes: ");
@@ -9,10 +9,10 @@ int main() {
 
    
     hours = minutes / 60;
-    remaining_minutes = minutes % 60;
+    remaining minutes = minutes % 60;
 
   
-    printf("Total time: %02d:%02d\n", hours, remaining_minutes);
+    printf("Total time: %02d:%02d\n", hours, remaining minutes);
 
     return 0;
 }
