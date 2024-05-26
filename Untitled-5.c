@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("\"Happy Teachers Day\"");  // Double quotes
-    printf("\n");  // New line
-    printf("\'Happy Teachers Day\'"); // Single quotes
+    printf("\"Happy Teachers Day\"");  
+    printf("\n"); 
+    printf("\'Happy Teachers Day\'"); 
     return 0;
 }
